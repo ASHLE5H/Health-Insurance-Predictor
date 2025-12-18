@@ -9,4 +9,4 @@ label_encoder_gender.pkl
 label_encoder_smoker.pkl
 scaler.pkl
 
-.gitignore
+
