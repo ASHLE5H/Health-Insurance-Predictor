@@ -1,0 +1,12 @@
+ML_mini_project
+images
+a.txt
+
+best_model.pkl
+feature_importance.png
+label_encoder_diabetic.pkl
+label_encoder_gender.pkl
+label_encoder_smoker.pkl
+scaler.pkl
+
+.gitignore
